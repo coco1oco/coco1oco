@@ -1,4 +1,4 @@
-## Hi, I'm Kurt Michael
+## Hi, I'm Kurt Michael 🏸
 
 🪅 Computer Science student at CvSU Main<br/>
 🖊 Aspiring to be part of the Tech World<br/>
