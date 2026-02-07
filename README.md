@@ -73,8 +73,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coco1oco&show_icons=true&theme=buefy&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coco1oco&layout=compact&theme=buefy&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api?username=coco1oco&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=coco1oco&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coco1oco&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <div align="center">
