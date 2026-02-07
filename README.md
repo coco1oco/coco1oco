@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kurt+Michael+Mirafelix+%F0%9F%91%8B;Aspiring+Software+Developer;Building+Polished+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kurt+Michael+Mirafelix+;Aspiring+Software+Developer;Building+Polished+Web+Apps" alt="Typing SVG" />
   
   <p align="center">
     <b>Computer Science Student @ CvSU Main</b> • <b>Cybersecurity Ethusiast</b> • <b>UI/UX Enthusiast</b>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Featured Project
+### Featured Project
 
 > **[PawPal - Pet Community & Records](https://pawpal-taupe.vercel.app/)** > *An installable PWA used by the Youth For Animals organization.*
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Core Stack (Daily Drivers)**
 <div align="left">
@@ -72,18 +72,18 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coco1oco&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=coco1oco&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=coco1oco&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   <br/>
 
-  <h3>✍️ Daily Inspiration</h3>
+  <h3> Daily Inspiration</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
   <br/>
 
-  <h3>🔝 Top Contributions</h3>
+  <h3> Top Contributions</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=coco1oco&limit=5&theme=buefy&combine_all_yearly_contributions=true" />
 
   <br/>
