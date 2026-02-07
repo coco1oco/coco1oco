@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kurt+Michael+%F0%9F%91%8B;Frontend+Developer;Building+Polished+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kurt+Michael+%F0%9F%91%8B;Frontend+Developer;Building+Polished+Web+Apps" alt="Typing SVG" />
   
   <p align="center">
     <b>CS Student @ CvSU Main</b> • <b>Frontend Specialist</b> • <b>UI/UX Enthusiast</b>
