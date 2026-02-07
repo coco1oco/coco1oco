@@ -10,7 +10,7 @@
      Focused on <b>React, TypeScript, and Tailwind</b> to create "premium" feeling interfaces.
   </p>
 
-  <p align="center">
+  <p align="center" justify-content="space-between">
     <a href="https://www.linkedin.com/in/kurt-michael-mirafelix/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
     </a>
